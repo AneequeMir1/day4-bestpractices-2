@@ -19,6 +19,3 @@ def poly_first(x, a0, a1):
 
 def poly_second(x, a0, a1, a2):
     return poly_first(x, a0, a1) + a2*(x**2)
-
-# Feel free to expand this list with more interesting mathematical operations...
-# .....
